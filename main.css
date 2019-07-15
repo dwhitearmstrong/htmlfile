@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
+
+@media screen and (orientation: landscape){
+    body {
+        background-image: url("https://wallpapertag.com/wallpaper/full/2/b/6/885210-widescreen-science-wallpapers-1920x1080-pc.jpg");
+    }
+}
+
+@media screen and (orientation: portrait){
+    body{
+        background-image: url("https://wallpapertag.com/wallpaper/full/2/b/6/885210-widescreen-science-wallpapers-1920x1080-pc.jpg");
+    }
+}
+
+* {
+    font-family: 'Orbitron', sans-serif;
+}
+
+* {
+    color: lightgrey
+}
+
+.large{
+    font-size: 10mm
+}
+
+#idealsize{
+    height: 320 ;
+    width: 190;
+}
