@@ -28,3 +28,9 @@
     height: 320 ;
     width: 190;
 }
+.para{
+    background-color:rgba(87, 73, 133, 0.6);
+    text-align:left; 
+    vertical-align: middle; 
+    padding:32px 47px;
+}
