@@ -3,6 +3,8 @@
 @media screen and (orientation: landscape){
     body {
         background-image: url("https://wallpapertag.com/wallpaper/full/2/b/6/885210-widescreen-science-wallpapers-1920x1080-pc.jpg");
+        background-attachment: fixed;
+
     }
 }
 
@@ -71,3 +73,4 @@ float: left;
   #myBtn:hover {
     background-color: #555; /* Add a dark-grey background on hover */
   }
+  
